@@ -24,9 +24,6 @@ import android.view.ViewGroup;
 import android.widget.FrameLayout;
 import android.widget.ProgressBar;
 
-/*
- * BrowseErrorActivity shows how to use ErrorFragment
- */
 public class BrowseErrorActivity extends Activity {
     private static final int TIMER_DELAY = 3000;
     private static final int SPINNER_WIDTH = 100;
@@ -35,9 +32,6 @@ public class BrowseErrorActivity extends Activity {
     private ErrorFragment mErrorFragment;
     private SpinnerFragment mSpinnerFragment;
 
-    /**
-     * Called when the activity is first created.
-     */
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
