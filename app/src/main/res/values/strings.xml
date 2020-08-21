@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">TV-Activity-Java</string>
     <string name="browse_title"><![CDATA[Videos by Your Company]]></string>
@@ -13,7 +14,6 @@
     <string name="buy_2">AT $9.99</string>
     <string name="movie">Movie</string>
 
-    <!-- Error messages -->
     <string name="error_fragment_message">An error occurred</string>
     <string name="dismiss_error">Dismiss</string>
 </resources>
